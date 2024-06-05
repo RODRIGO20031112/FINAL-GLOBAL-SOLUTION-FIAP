@@ -32,7 +32,7 @@ Fizemos a desenvoltura do app em .ipynb, isso facilita muito os testes em relaç
 
 Você pode fazer o upload de sua própria imagem, nesse caso como exemplo, veja este animal.
 
-<img src="../FinalGlobalSolution/option1/1.jpg" alt="Animal"/>
+<img src="./assets/1.jpg" alt="Animal"/>
 
 <br/>
 
