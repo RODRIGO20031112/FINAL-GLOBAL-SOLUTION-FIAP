@@ -242,7 +242,7 @@ Utilizando um administrados de requisições como Insominia você pode disparar 
 - ### Rodrigo Bianco de Carvalho **RM96978**
 - ### Lucas do Santos Segantini **RM96792**
 - ### Matheus do Santos **RM96727**
-- ### Sean Sato **---**
+- ### Sean Sato **RM96410**
 - ### Rodrigo Favilla Zara **RM97172**
 
 ## Link do vídeo de explicação
