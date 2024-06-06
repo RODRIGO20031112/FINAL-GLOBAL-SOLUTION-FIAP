@@ -244,3 +244,7 @@ Utilizando um administrados de requisições como Insominia você pode disparar 
 - ### Matheus do Santos **RM96727**
 - ### Sean Sato **---**
 - ### Rodrigo Favilla Zara **RM97172**
+
+## Link do vídeo de explicação
+
+https://drive.google.com/file/d/1jL2-MqzM6IDYpZ39kCXe5m4ubV-kI-96/view?usp=sharing
